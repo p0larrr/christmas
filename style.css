@@ -1,0 +1,23 @@
+*{
+    text-decoration: none!important;
+}
+body{
+    background-image: url(images/snow-christmas-background.jpg);
+    padding: 20px 40px;
+}
+.l-text{
+    color: white;
+    text-shadow: -3px -3px darkred;
+    padding-left: 2%;
+    text-align: left;
+}
+.r-text{
+    color: white;
+    text-shadow: -3px -3px darkred;
+    padding-right: 2%;
+    text-align: right;
+}
+.col-md-12{
+    background-color: white;
+    border: solid 7px darkred;
+}
